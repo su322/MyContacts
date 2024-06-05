@@ -1,5 +1,5 @@
 # A-Simple-Address-Book-Client-Based-on-OpenGauss-and-Qt
-实现了Qt客户端连接部署好OpenGauss的服务器和图形化操作联系人数据库。
+Qt客户端连接部署好OpenGauss的服务器和图形化操作联系人数据库。
 部署opengauss参考了这篇博客（感谢）：https://blog.csdn.net/qq_42055933/article/details/136437388
 # 注意事项：
 ### 1.在sqlmgr.cpp文件中修改实际使用的数据库参数（前提是已经在服务器或虚拟机上部署好opengauss）
