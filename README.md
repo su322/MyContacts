@@ -1,4 +1,3 @@
-# A-Simple-Address-Book-Client-Based-on-OpenGauss-and-Qt
 Qt客户端连接部署好OpenGauss的服务器和图形化操作联系人数据库。
 部署opengauss参考了这篇博客：https://blog.csdn.net/qq_42055933/article/details/136437388
 # 注意事项：
